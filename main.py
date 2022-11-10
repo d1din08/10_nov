@@ -1,0 +1,1 @@
+print("este e o meu primeiro ficheiro")
